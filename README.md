@@ -1,6 +1,6 @@
 # Recursos estáticos Aragón OpenData
 
-Este repositorio contiene los recursos estáticos (html, css e imágenes) para las cabecera y pie de página comunes.
+Este repositorio contiene los recursos estáticos (html, css e imágenes) para la cabecera y pie de página comunes.
 
 ### Cabecera
 
